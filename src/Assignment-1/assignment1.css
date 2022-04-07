@@ -6,6 +6,32 @@ width: 100%;
 height: 100%;
 }
 
+.top{
+    display: flex;
+    flex-direction: row;
+}
+.bottom{
+    display: flex;
+    flex-direction: row;
+}
+
+.top_left{
+    width: 50%;
+}
+.top_right{
+    width: 50%;
+}
+.bottom_left{
+    width: 50%;
+}
+.bottom_right{
+    width: 50%;
+}
+
+img{
+    width: 100%;
+}
+
 h1{
-    color:red
+    text-align: center;
 }
